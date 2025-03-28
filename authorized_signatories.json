@@ -1,0 +1,14 @@
+{
+  "שגיא בר און": {
+    "max_amount": 21000,
+    "signature_image_path": "signatures/שגיא_בר_און_signature.jpg"
+  },
+  "טל פרומקיס": {
+    "max_amount": 5000,
+    "signature_image_path": "signatures/טל_פרומקיס_signature.png"
+  },
+  "חן הרייתי": {
+    "max_amount": 23000,
+    "signature_image_path": "signatures/חן_הרייתי_signature.jpg"
+  }
+}

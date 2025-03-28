@@ -1,0 +1,6 @@
+streamlit
+Pillow
+python-dotenv
+requests
+pillow-heif  # For HEIC files from iPhone
+webptools  # For WebP support
