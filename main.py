@@ -504,7 +504,7 @@ def main():
                         signatory_name = name
                         break
             
-            if "לא ניתן לזהות" in result_text:
+            if "לא ניתן לזהות" or "לא זוהתה חתימה" in result_text:
                 signatory_name = "לא נמצא"
 
             # Display status indicator
